@@ -59,8 +59,11 @@ $("#addtrains").on("click", function(event){
       firsttime = childSnapshot.val().firsttime;
       frequency = childSnapshot.val().frequency;
 
+
       var firsttimeMoment = moment(firsttime, "HH:mm");
       // console.log("TIME CONVERTED: " + firsttimeMoment);
+      
+      // It is Now - moment
       var currenttime = moment();
       // console.log("Now TIME: " + currenttime);
 
