@@ -34,3 +34,5 @@ Make sure that your app suits this basic spec:
 	* Users from many different machines must be able to view same train times.
 
 	* Styling and theme are completely up to you. Get Creative!
+
+<img width="800" alt="Train Time" src="https://kbowen200247.github.io/week-7-Train-Time/images/train_scheduler.png">
